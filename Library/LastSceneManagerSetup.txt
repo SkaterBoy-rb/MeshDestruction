@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Apply/Mesh Destroy/Demo/wall_Destruction.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
